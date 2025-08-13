@@ -1,0 +1,10 @@
+<suite name = "ContactListSuite" parallel="false">
+	<test name = "ContactListTest">
+		<classes>
+			<class name = "Telecom.UserManagement">
+			</class>
+			<class name = "Telecom.ContactManagement">
+			</class>
+		</classes>
+	</test>
+</suite>
